@@ -4,7 +4,7 @@
 
 喜欢旅行，偶尔写写文章和代码。
 
-微信公众号：黑星软件店
+微信公众号：黑星实验室
 
 <a href="https://github.com/0xHJK">
 	<img src="https://github-readme-stats.vercel.app/api?username=0xHJK&hide_border=true&theme=vue&show_icons=true&hide=contribs" height="160px">
